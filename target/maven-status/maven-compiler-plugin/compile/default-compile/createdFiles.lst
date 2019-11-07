@@ -1,0 +1,4 @@
+servlets\gameServlet.class
+entities\User.class
+servlets\authServlet.class
+model\userData.class
