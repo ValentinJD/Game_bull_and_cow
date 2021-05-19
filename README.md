@@ -1,6 +1,6 @@
 # Web application game bull_and_cow
 Тестовое задание.
-Стэк: Java 8, Servlet, JSP, HTML, CSS.
+Стэк: Java 8, Apache Tomcat, Servlet, JSP, HTML, CSS.
 
 25.06.2019
 0.	Выводим Страницу регистрации пользователя. Поля Логин пароль.
