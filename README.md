@@ -1,8 +1,7 @@
-# bull_and_cow
-web application game bull_and_cow
-Алгоритм работы программы  bull_and_cow
+# Web application game bull_and_cow
+Тестовое задание.
 
-20:30 начал 25.06.2019
+25.06.2019
 0.	Выводим Страницу регистрации пользователя. Поля Логин пароль.
 1.	После нажатия submit отправляем POST запрос данные на сервер в AddServlet.
 2.	В сервлете создаем класс User, присваиваем переданные данные переменным класса user и password и вызываем метод addUser класса data добавляем данные в ArrayList. 
